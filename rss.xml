@@ -2,17 +2,10 @@
     <channel>
         <title><![CDATA[spruce^ki]]></title>
         <description><![CDATA[spruce^ki]]></description>
-        <link>https://thegrid.ai/spruceki/</link>
+        <link>http://spruce.ki/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 05:10:58 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/spruceki/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Why Sleep Is So Important For Overall Health]]></title>
-            <description><![CDATA[<article><h1>Why Sleep Is So Important For Overall Health</h1><p>Around the world, human beings have sleep deficit. Learn why getting the right amount of rest can revitalize your body and lead to overall increase in health and wellness. With an estimated 60 million Americans suffering from insomnia, sleep is something many of us are lacking.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1b397bb39f8159495a6c7f58dbf025e6/noop.jpg?input=http%3A%2F%2Fi.huffpost.com%2Fgen%2F1461197%2Fimages%2Fo-DACHSHUND-facebook.jpg"></article>]]></description>
-            <link>http://www.huffingtonpost.com/sonimacom/why-sleep-is-so-important-for-overall-health_b_9676412.html?utm_hp_ref=healthy-living</link>
-            <guid isPermaLink="false">ef202ba4-42ef-4c00-8a5b-69ff87ff1881</guid>
-            <pubDate>Mon, 22 Aug 2016 05:09:19 GMT</pubDate>
-        </item>
+        <lastBuildDate>Mon, 22 Aug 2016 08:20:12 GMT</lastBuildDate>
+        <atom:link href="http://spruce.ki/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Coolest Tech at SXSW Interactive This Year]]></title>
             <description><![CDATA[<article><h1>The Coolest Tech at SXSW Interactive This Year</h1><p>Everything from lifelike humanoids to VR-recording apps at SXSW Interactive 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/914b8f2c193ba23977d43dd2927ac45c36498fd3.jpg"></article>]]></description>
