@@ -1,26 +1,14 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+layout_spectrum: 0.2261250375304371
 typography_spectrum: 0.01612659520469606
 color:
-  saturation: 0.4950827853754163
   brandStrength: 0.5846746971365064
-  rhythmicContrast: 0.3089240854606032
-  brandColors:
-    - '#FFFFFF'
-    - '#007483'
-    - '#54A2AC'
-    - '#80BAC1'
-    - '#D9EAEC'
   lightness: 0.6229283083230257
-layout_spectrum: 0
+  saturation: 0.4950827853754163
+  rhythmicContrast: 0.30892408546060324
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: spruce^ki
