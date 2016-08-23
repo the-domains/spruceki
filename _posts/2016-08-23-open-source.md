@@ -1,22 +1,20 @@
 ---
-datePublished: '2016-08-23T23:28:46.147Z'
-isBasedOnUrl: 'http://screamingcoder.com/life/2013/07/20/cache-dup/'
+datePublished: '2016-08-23T23:29:06.217Z'
 author:
   - name: Pete
     url: 'http://screamingcoder.com/life/author/peteroyle/'
     avatar: {}
 via: {}
-dateModified: '2016-08-23T23:27:44.123Z'
+dateModified: '2016-08-23T23:29:04.581Z'
 title: Open Source
 publisher: {}
 description: >-
   Here at spruce^ki we are active participants in open source. Check out our
   projects.
-starred: false
 sourcePath: _posts/2016-08-23-open-source.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: open-source/index.html
 _type: MediaObject
 
 ---
