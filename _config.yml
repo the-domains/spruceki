@@ -28,3 +28,6 @@ navigation:
   - name: Cron
     url: 'https://github.com/seam/cron'
     type: external
+  - name: Cache Dup
+    url: 'http://screamingcoder.com/life/2013/07/20/cache-dup/'
+    type: external
