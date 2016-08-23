@@ -4,8 +4,15 @@
         <description><![CDATA[spruce^ki]]></description>
         <link>http://spruce.ki/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 12:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 12:47:07 GMT</lastBuildDate>
         <atom:link href="http://spruce.ki/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cache Dup]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2870233b-6094-4085-b071-d00132b8d3a1.jpg">]]></description>
+            <link>http://screamingcoder.com/life/2013/07/20/cache-dup/</link>
+            <guid isPermaLink="false">147798ca-f608-49c5-8d32-427538bb83f7</guid>
+            <pubDate>Tue, 23 Aug 2016 12:47:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[seam/cron]]></title>
             <description><![CDATA[<article><h1>seam/cron</h1><p>cron - Scheduling Module: A portable extension for scheduling tasks using managed beans</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dcea62929347e42f46eb9d3696826174/croprotate?cropheight=376&cropwidth=400&degrees=0&input=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F330962%3Fv%3D3%26s%3D400&x=0&y=12"></article>]]></description>
