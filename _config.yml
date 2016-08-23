@@ -1,3 +1,24 @@
+typography_spectrum: 0.4336918
+color:
+  saturation: 0.7939068
+  brandStrength: 1
+  lightness: 0.8817204
+  brandColors:
+    - '#FFFFFF'
+    - '#007B91'
+    - '#4B5059'
+    - '#6FC6EF'
+    - '#918F90'
+  rhythmicContrast: 0
+layout_spectrum: 0.4103943
+logo: null
+name: spruce^ki
+navigation:
+  - name: Open Source
+    id: f405e688-e4f8-429a-bb44-7e8e03ee7e2f
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/affa8173-c989-40fe-b637-73d698d9dd1c.png
 collections:
   - index:
       path: /
@@ -10,17 +31,3 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.7939068
-  brandStrength: 1
-  lightness: 0.8817204
-  brandColors:
-    - '#FFFFFF'
-    - '#007B91'
-    - '#4B5059'
-    - '#6FC6EF'
-    - '#918F90'
-  rhythmicContrast: 0
-typography_spectrum: 0.4336918
-layout_spectrum: 0.9211469
-name: spruce^ki
