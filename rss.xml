@@ -4,15 +4,8 @@
         <description><![CDATA[spruce^ki]]></description>
         <link>http://spruce.ki/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 23:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 23:17:39 GMT</lastBuildDate>
         <atom:link href="http://spruce.ki/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[seam/cron]]></title>
-            <description><![CDATA[<article><h1>seam/cron</h1><p>cron - Scheduling Module: A portable extension for scheduling tasks using managed beans</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dcea62929347e42f46eb9d3696826174/croprotate?cropheight=376&cropwidth=400&degrees=0&input=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F330962%3Fv%3D3%26s%3D400&x=0&y=12"></article>]]></description>
-            <link>https://github.com/seam/cron</link>
-            <guid isPermaLink="false">0e3551f0-6e91-4b9a-9610-45c05f51523c</guid>
-            <pubDate>Mon, 22 Aug 2016 11:41:16 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Coolest Tech at SXSW Interactive This Year]]></title>
             <description><![CDATA[<article><h1>The Coolest Tech at SXSW Interactive This Year</h1><p>Everything from lifelike humanoids to VR-recording apps at SXSW Interactive 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/914b8f2c193ba23977d43dd2927ac45c36498fd3.jpg"></article>]]></description>
