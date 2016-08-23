@@ -25,9 +25,6 @@ typography_spectrum: 0.4336918
 layout_spectrum: 0.4103943
 name: spruce^ki
 navigation:
-  - name: Cache Dup
-    url: 'http://screamingcoder.com/life/2013/07/20/cache-dup/'
-    type: external
   - name: Open Source
     id: f405e688-e4f8-429a-bb44-7e8e03ee7e2f
     type: content
