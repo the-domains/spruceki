@@ -4,8 +4,15 @@
         <description><![CDATA[spruce^ki]]></description>
         <link>http://spruce.ki/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 23:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 23:28:47 GMT</lastBuildDate>
         <atom:link href="http://spruce.ki/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Open Source]]></title>
+            <description><![CDATA[<article><h1>Open Source</h1><p>Here at spruce^ki we are active participants in open source. Check out our projects.</p></article>]]></description>
+            <link>http://screamingcoder.com/life/2013/07/20/cache-dup/</link>
+            <guid isPermaLink="false">f405e688-e4f8-429a-bb44-7e8e03ee7e2f</guid>
+            <pubDate>Tue, 23 Aug 2016 23:28:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Coolest Tech at SXSW Interactive This Year]]></title>
             <description><![CDATA[<article><h1>The Coolest Tech at SXSW Interactive This Year</h1><p>Everything from lifelike humanoids to VR-recording apps at SXSW Interactive 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/914b8f2c193ba23977d43dd2927ac45c36498fd3.jpg"></article>]]></description>
