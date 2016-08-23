@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.4950827853754163
+  saturation: 0.4950828
   brandStrength: 1
-  lightness: 0.6229283083230257
+  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#007B91'
     - '#4B5059'
     - '#6FC6EF'
     - '#918F90'
-  rhythmicContrast: 0.3089240854606032
+  rhythmicContrast: 0.3089241
 typography_spectrum: 0.01612659520469606
-layout_spectrum: 0
+layout_spectrum: 1
 name: spruce^ki
